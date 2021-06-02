@@ -1,0 +1,85 @@
+<style> TABLE { border:dotted 1px #999; } TD { border:dotted 1px #D5D5D5; vertical-align:top } </style><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr style="background-color:LightGrey;font-weight:bold;">
+		<td>Sr. No.</td><td>UDISENo</td><td>College</td><td>Contact No</td><td>ChoiceCode</td><td>Stream</td><td>Status</td><td>Medium</td><td>Intake</td><td>Minority</td>
+	</tr><tr>
+		<td>1</td><td>27210600314</td><td>B K BIRLA COLLEGE OF ARTS, SCIENCE & COMMERCE, KALYAN (W).,B K BIRLA COLLEGE, MURBAD ROAD, KALYAN (W)..</td><td>0251 - 2230740</td><td>MU442CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>720</td><td>Non Minority</td>
+	</tr><tr>
+		<td>2</td><td>27211008302</td><td>BHARATI VIDYAPEETH PRASHALA  JR COLLEGE   CBD ,SECTOR 3  CBD BELAPUR NAVI MUMBAI </td><td>022 - 27562583</td><td>MU402CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>160</td><td>Non Minority</td>
+	</tr><tr>
+		<td>3</td><td>27230500431</td><td>BHAVAN'S COLLEGE OF ARTS, COM & SCI. ANDHERI WEST,MUNSHI NAGAR, ANDHERI (W), MUMBAI 400 058</td><td>022 - 26256451</td><td>MU201CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>600</td><td>Non Minority</td>
+	</tr><tr>
+		<td>4</td><td>27230101041</td><td>D. G. RUPAREL COLLEGE OF ARTS,SCI & COMM., MAHIM, MUMBAI.,SENAPATI BAPAT MARG, MAHIM, MUMBAI - 400 016.</td><td>022 - 24303733</td><td>MU414CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>360</td><td>Non Minority</td>
+	</tr><tr>
+		<td>5</td><td>27211004705</td><td>FATHER AGNEL MULTIPURPOSE SCHOOL AND JR COLLEGE, VASHI, NAVI MUMBAI.,SECTOR 9A, VASHI, NAVI MUMBAI.</td><td>022 - 27660711</td><td>MU734CPE</td><td>Commerce</td><td>Permanent Un-Aided</td><td>English</td><td>160</td><td>Religious-Christian / Roman Catholics</td>
+	</tr><tr>
+		<td>6</td><td>27230209293</td><td>GURU NANAK KHALSA  COLLEGE OF ARTS SCIENCE  AND COMMERCE, MATUNGA (EAST), MUMBAI.,NATHALAL PAREKH MARG, MATUNGA (EAST), MUMBAI. </td><td>022 - 24096234</td><td>MU123CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>360</td><td>Religious-Sikh</td>
+	</tr><tr>
+		<td>7</td><td>27230100549</td><td>JAI HIND COLLEGE  BASANTSING INSTITUTE OF SCIENCE J T LALVANI COLLEGE OF COMMERCE, CHURCHGATE (WEST),23/24, BACKBAY RECLAMATION, A ROAD, CHURCHGATE (WEST), MUMBAI-400 020.</td><td>022 - 22041095</td><td>MU236CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>600</td><td>Linguistic-Sindhi</td>
+	</tr><tr>
+		<td>8</td><td>27230100964</td><td>K P B HINDUJA COLLEGE OF COMMERCE, CHARNI ROAD, MUMBAI.,315, NEW CHARNI ROAD, MUMBAI.</td><td>022 - 40989000</td><td>MU103CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>720</td><td>Linguistic-Sindhi</td>
+	</tr><tr>
+		<td>9</td><td>27230100964</td><td>K P B HINDUJA COLLEGE OF COMMERCE, CHARNI ROAD, MUMBAI.,315, NEW CHARNI ROAD, MUMBAI.</td><td>022 - 40989000</td><td>MU103CPE</td><td>Commerce</td><td>Permanent Un-Aided</td><td>English</td><td>480</td><td>Linguistic-Sindhi</td>
+	</tr><tr>
+		<td>10</td><td>27230700303</td><td>K. E. S. JR. COLLEGE OF ARTS & COM, KANDIVALI (WEST),BHULABHAI DESAI ROAD, KANDIVALI (WEST), </td><td>022 - 28072477</td><td>MU267CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>480</td><td>Linguistic-Gujarati</td>
+	</tr><tr>
+		<td>11</td><td>27230300484</td><td>K. J. SOMAIYA  JR. COLLEGE OF ARTS  & COMMERCE  VIDYAVIHAR, MUMBAI-77,VIDYANAGAR, VIDYAVIHAR (EAST) MUMBAI - 400 077</td><td>022 - 21022915</td><td>MU580CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>840</td><td>Linguistic-Gujarati</td>
+	</tr><tr>
+		<td>12</td><td>27230300484</td><td>K. J. SOMAIYA  JR. COLLEGE OF ARTS  & COMMERCE  VIDYAVIHAR, MUMBAI-77,VIDYANAGAR, VIDYAVIHAR (EAST) MUMBAI - 400 077</td><td>022 - 21022915</td><td>MU580CFE</td><td>Commerce</td><td>Self Finance</td><td>English</td><td>120</td><td>Linguistic-Gujarati</td>
+	</tr><tr>
+		<td>13</td><td>27230300483</td><td>K. J. SOMAIYA COLLEGE OF SCIENCE & COMM. VIDYAVIHAR,VIDYANAGAR, VIDYAVIHAR, MUMBAI-77</td><td>022 - 21025919</td><td>MU428CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>240</td><td>Linguistic-Gujarati</td>
+	</tr><tr>
+		<td>14</td><td>27240818832</td><td>K.E.S. V.K. HIGH SCHOOL & JR. COLLEGE, PANVEL,KES VK HIGH SCHOOL & JR. COLLEGE , PANVEL .TILLU GURUJI PATH , NEAR BALLALESHWAR MANDIR , PANVEL</td><td>022 - 27452300</td><td>MU357CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>160</td><td>Non Minority</td>
+	</tr><tr>
+		<td>15</td><td>27211401416</td><td>K.G.JOSHI COLLEGE ARTS & N.G.BEDEKAR COLLEGE COMMERCE THANE WEST,CREEK LAND CHENDANI BUNDER ROAD THANE</td><td>022 - 25332412</td><td>MU597CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>480</td><td>Non Minority</td>
+	</tr><tr>
+		<td>16</td><td>27211401416</td><td>K.G.JOSHI COLLEGE ARTS & N.G.BEDEKAR COLLEGE COMMERCE THANE WEST,CREEK LAND CHENDANI BUNDER ROAD THANE</td><td>022 - 25332412</td><td>MU597CNE</td><td>Commerce</td><td>Un-Aided</td><td>English</td><td>120</td><td>Non Minority</td>
+	</tr><tr>
+		<td>17</td><td>27230100540</td><td>KISHINCHAND CHELLARAM COLLEGE (K. C. COLLEGE) CHURCUGATE.,VIDYA SAGAR PRINCIPAL. K . M . KUNDNANI CHOWK , 124 , DINSHAW WACHA ROAD, CHURCHGATE , MUMBAI  - 400020</td><td>022 - 66981000</td><td>MU277CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>240</td><td>Linguistic-Sindhi</td>
+	</tr><tr>
+		<td>18</td><td>27230100540</td><td>KISHINCHAND CHELLARAM COLLEGE (K. C. COLLEGE) CHURCUGATE.,VIDYA SAGAR PRINCIPAL. K . M . KUNDNANI CHOWK , 124 , DINSHAW WACHA ROAD, CHURCHGATE , MUMBAI  - 400020</td><td>022 - 66981000</td><td>MU277CNE</td><td>Commerce</td><td>Un-Aided</td><td>English</td><td>240</td><td>Linguistic-Sindhi</td>
+	</tr><tr>
+		<td>19</td><td>27230500511</td><td>M. L. DAHANUKAR COLLEGE OF COMMERCE, VILE PARLE (EAST), MUMBAI.,DIXIT ROAD, VILE PARLE (EAST), MUMBAI 400057.</td><td>022 - 26179580</td><td>MU413CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>600</td><td>Non Minority</td>
+	</tr><tr>
+		<td>20</td><td>27240818821</td><td>MAHATMA EDUCATION SOCIETYS HIGH SCHOOL & JR. COLLEGE, KHANDA COLONY, NEW PANVEL,SECTOR-8 KHANDA COLONY NEW PANVEL</td><td>022 - 27453050</td><td>MU534CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>80</td><td>Linguistic-Malayalam</td>
+	</tr><tr>
+		<td>21</td><td>27230400384</td><td>MULUND COLLEGE OF COMMERCE ,SAROJINI NAIDU ROAD, MULUND (WEST), MUMBAI- 400 080</td><td>022 - 25600017</td><td>MU299CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>670</td><td>Non Minority</td>
+	</tr><tr>
+		<td>22</td><td>27230400302</td><td>N E S  HIGH SCHOOL & JR. COLLEGE, BHANDUP (W),NES COMPLEX, NATIONAL HIGH SCHOOL MARG, BHANDUP (W)</td><td>022 - 25940765</td><td>MU350CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>160</td><td>Linguistic-Tamil</td>
+	</tr><tr>
+		<td>23</td><td>27211003205</td><td>R. F. NAIK VIDYALYA SECONDARY & HIGHER SECONDARY SCHOOL, SECTOR - 8, KOPARKHAIRNE, NAVI MUMBAI.,PLOT NO. 22/23, SECTOR - 8, KOPARKHAIRNE, NAVI MUMBAI.</td><td>022 - 27546361</td><td>MU259CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>80</td><td>Non Minority</td>
+	</tr><tr>
+		<td>24</td><td>27230300481</td><td>RAMNIRANJAN JHUNJHUNWALA COLLEGE, GHATKOPAR (W).,OPP. GHATKOPAR RAILWAY STATION, GHATKOPAR (W).</td><td>022 - 25151763</td><td>MU137CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>240</td><td>Linguistic-Hindi</td>
+	</tr><tr>
+		<td>25</td><td>27210700554</td><td>ROYAL COLLEGE OF ARTS, SCIENCE & COMMERCE, PENKAR PADA, MIRA ROAD (E),ISMAIL M. KANGA EDUCATIONAL CAMPUS, PENKARPADA, MIRA ROAD (E), DIST. THANE</td><td>022 - 28459524</td><td>MU478CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>240</td><td>Religious-Muslim</td>
+	</tr><tr>
+		<td>26</td><td>27212003203</td><td>S. E. S. HIGH SCHOOL & JR COLLEGEPANCHPAKHADI, THANE (WEST).,PANCHPAKHADI, THANE (WEST).</td><td>022 - 25333593</td><td>MU283CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>80</td><td>Non Minority</td>
+	</tr><tr>
+		<td>27</td><td>27230500436</td><td>S. S. & L. S. PATKAR COLLEGE GOREGAON WEST,SWAMI VIVEKANAND ROAD NEAR FILMSTAN STUDIO GOREGAON WEST</td><td>022 - 28723731</td><td>MU135CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>240</td><td>Non Minority</td>
+	</tr><tr>
+		<td>28</td><td>27230500515</td><td>SATHAYE COLLEGE OF ARTS, COM & SCI,DIXIT ROAD, VILE PARLE (EAST), MUMBAI - 400057.</td><td>022 - 26141149</td><td>MU373CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>480</td><td>Non Minority</td>
+	</tr><tr>
+		<td>29</td><td>27230700161</td><td>SHAILENDRA EDU. SOC'S SECONDARY SCHOOL & JR. COLLEGE,SHAILEDRA VIDYALAYA MARG, SHAILENDRA NAGAR, DAHISAR(EAST) MUMBAI - 400068</td><td>022 - 28962310</td><td>MU119CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>100</td><td>Non Minority</td>
+	</tr><tr>
+		<td>30</td><td>27230209286</td><td>SIES COLLEGE OF COMMERCE & ECONOMICS SION,PLOT NO.71/72,SION-MATUNGA ESTATE, TV CHIDAMBARAN MARG, NEAR CHAMPAKLAL INDUSTRIAL ESTATE, MUMBAI</td><td>022 - 24074944</td><td>MU579CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>480</td><td>Linguistic-Tamil</td>
+	</tr><tr>
+		<td>31</td><td>27211007406</td><td>SIES JUNIOR COLLEGE OF COMMERCE, NERUL,SRI CHANDRASEKARENDRA SARASWATI VIDYAPURAM, PLOT I-C, SECTOR V, NERUL, NAVI MUMBAI</td><td>022 - 27708371</td><td>MU533CPE</td><td>Commerce</td><td>Permanent Un-Aided</td><td>English</td><td>240</td><td>Linguistic-Tamil</td>
+	</tr><tr>
+		<td>32</td><td>27230500328</td><td>SMT. GPP AND ACHARYA A V PATEL JR COLLEGE VILE PARLE WEST,DADABHAI ROAD, VILE PARLE -WEST , TALUKA:ANDHERI , DISTRICT: MUMBAI SUBURBAN, PIN CODE:400056</td><td>022 - 26712539</td><td>MU296CPE</td><td>Commerce</td><td>Permanent Un-Aided</td><td>English</td><td>80</td><td>Linguistic-Gujarati</td>
+	</tr><tr>
+		<td>33</td><td>27210608102</td><td>SOUTH INDIAN SECONDARY AND HIGHER SEC. SCHOOL SHASTRI NAGAR DOMBIVLI WEST,KOPAR ROAD, SHASHTRI NAGAR, DOMBIVLI WEST</td><td>0251 - 2483429</td><td>MU595CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>120</td><td>Linguistic-Tamil</td>
+	</tr><tr>
+		<td>34</td><td>27230500604</td><td>ST ANDREW'S COLLEGE OF ARTS  SCI & COM,ST DOMINIC ROAD BANDRA WEST  MUMBAI</td><td>022 - 26401657</td><td>MU116CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>360</td><td>Religious-Christian / Roman Catholics</td>
+	</tr><tr>
+		<td>35</td><td>27211004802</td><td>ST. MARY'S JUNIOR COLLEGE, VASHI , NAVI MUMBAI.,SECTOR - 10 A, VASHI , NAVI MUMBAI.</td><td>022 - 27662725</td><td>MU453CPE</td><td>Commerce</td><td>Permanent Un-Aided</td><td>English</td><td>160</td><td>Non Minority</td>
+	</tr><tr>
+		<td>36</td><td>27230300302</td><td>SWAMI VIVEKANAND HIGH SCHOOL & JR COLLEGE, CHEMBUR,SINDHI SOCIETY, CHEMBUR, MUMBAI 400071</td><td>022 - 25221360</td><td>MU599CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>320</td><td>Linguistic-Sindhi</td>
+	</tr><tr>
+		<td>37</td><td>27230100547</td><td>SYDENHAM COLLEGE OF COMMERCE & ECONOMICS, CHURCHGATE.,SYDENHAM COLLEGE OF COMMERCE AND ECONOMICS, 'B' ROAD, CHURCHGATE, MUMBAI 20.</td><td>022 - 22882117</td><td>MU383COE</td><td>Commerce</td><td>Government</td><td>English</td><td>360</td><td>Non Minority</td>
+	</tr><tr>
+		<td>38</td><td>27230600234</td><td>THE BOMBAY SUBURBAN GRAIN DEALERS JUNIOR COLLEGE OF COMMERCE ARTS AND SCIENCE,BHAVISHYA BHARAT CAMPUS, BHADRAN NAGAR, S.V.ROAD, MALAD (WEST), MUMBAI : 400 064.</td><td>022 - 28072262</td><td>MU104CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>960</td><td>Linguistic-Gujarati</td>
+	</tr><tr>
+		<td>39</td><td>27230400379</td><td>V. G. VAZE COLLEGE OF ARTS SCI AND COMMERCE, MITHAGAR ROAD, MULUND (EAST).,MITHAGAR ROAD, MULUND (EAST).</td><td>022 - 21631421</td><td>MU172CGE</td><td>Commerce</td><td>Aided</td><td>English</td><td>550</td><td>Non Minority</td>
+	</tr><tr>
+		<td>40</td><td>27212000812</td><td>VASANT VIHAR HIGH SCHOOL & JR. COLLEGE, THANE (WEST).,POKHRAN ROAD NO. 2, THANE (WEST).</td><td>022 - 21714444</td><td>MU238CPE</td><td>Commerce</td><td>Permanent Un-Aided</td><td>English</td><td>80</td><td>Non Minority</td>
+	</tr>
+</table>
